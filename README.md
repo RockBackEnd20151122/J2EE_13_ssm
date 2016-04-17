@@ -113,5 +113,10 @@ to match the currect dao
 	
 test, use login to test;
 	
+
+20160417: start products maintain 
+
+	
+	
 to be continue ....
 	
