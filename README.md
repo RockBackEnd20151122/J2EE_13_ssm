@@ -76,6 +76,8 @@ D:持续性/永久性(Durability)
 一个事务一旦提交，它对数据库中数据的改变就应该是永久性的。
 注:事务是恢复和并发控制的基本单位。
 
+still have problems ...... how to config it?
+
 add:
 <!-- for '事务' -->
 	<bean name="transactionManager"
